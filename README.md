@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I'm currently working on data-science related projects, particularly related to my hobbies<br>🤝I'm looking for help with Frontend learning and applications of Machine-Learning<br>🌱I'm currently learning React, Postgres, and more Leetcode!<br>💬 I'm open to internship opportunities in the field of data-science or software!<br>🤗Fun fact: I enjoy hip-hop music and videos games, particular FromSoft games like Dark Souls!
+🔭 I'm currently working on data-science related projects, particularly related to my hobbies<br>🤝I'm looking for help with Frontend learning and applications of Machine-Learning<br>🌱I'm currently learning React, Postgres, and more Leetcode!<br>💬 I'm open to internship opportunities in the field of data-science or software!<br>🤗Fun fact: I enjoy hip-hop music and videos games, particularly Dark Souls!
 
 
 ## 🌐 Socials:
