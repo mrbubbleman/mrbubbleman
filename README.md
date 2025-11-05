@@ -3,11 +3,8 @@
 
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/eric-lee-el9/) 
-
-[![Website]([https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/eric-lee-el9/](https://eric-portfolio-official.vercel.app/)) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Eric%20Lee-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eric-lee-el9/)
+[![Website](https://img.shields.io/badge/Website-Visit%20My%20Site-111111?style=for-the-badge&logo=google-chrome&logoColor=white)](https://eric-portfolio-official.vercel.app/)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=mrbubbleman&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
